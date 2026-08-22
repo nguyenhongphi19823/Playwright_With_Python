@@ -6,3 +6,8 @@ def get_emails_by_role(users, role):
             if user["role"] == role]
 # Giải thích dòng 4: Gọi function và lưu kết quả để dùng tiếp.
 tester_emails = get_emails_by_role(users, "tester")
+
+
+
+# Bài tập thực hành
+
