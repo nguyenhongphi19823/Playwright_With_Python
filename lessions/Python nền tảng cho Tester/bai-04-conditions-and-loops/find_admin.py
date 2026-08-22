@@ -6,3 +6,7 @@ for user in users:
         print(user["email"])
         # Giải thích dòng 4: Dừng vòng lặp sau khi tìm thấy kết quả cần thiết.
         break
+
+
+
+
