@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a0dce8-2278-4451-8996-638a0ab089ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-03-list-and-dictionary/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-03-list-and-dictionary/users_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-04-conditions-and-loops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-04-conditions-and-loops/find_admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-03-list-and-dictionary/users_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-03-list-and-dictionary/users_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nguyenhongphi19823"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nguyenhongphi19823/Playwright_With_Python.git",
+    "accountId": "928d2b10-ebad-4f5d-b5fd-476600cd3eac"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>

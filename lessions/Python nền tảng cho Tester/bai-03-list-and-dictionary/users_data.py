@@ -8,3 +8,5 @@ users = [
 ]
 # Giải thích dòng 5: Lấy email của user đầu tiên rồi in ra.
 print(users[0]["email"])
+
+
