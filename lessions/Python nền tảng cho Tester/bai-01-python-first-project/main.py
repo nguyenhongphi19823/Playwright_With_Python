@@ -12,6 +12,6 @@ print(f"{learner}: {course_name}")
 course_name1 = "Python nền tảng cho Tester"
 learner1 = "Software Tester"
 learning_goal = "Học Python để viết kiểm thử tự động"
-print(f"Mục tiêu học tập: {learning_goal} ")
+print(f"Mục tiêu học tập: {learning_goal}")
 
 

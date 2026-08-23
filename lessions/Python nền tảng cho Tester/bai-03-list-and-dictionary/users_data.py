@@ -10,3 +10,9 @@ users = [
 print(users[0]["email"])
 
 
+# ------------------------------------
+# Bài tập thực hành
+# Thêm user thứ ba và in role của user đó.
+
+users.append({"email": "c@test.com", "role": "developer"})
+print(users[2]["role"])

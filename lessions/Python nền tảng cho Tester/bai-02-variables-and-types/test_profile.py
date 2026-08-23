@@ -6,3 +6,15 @@ retry_count: int = 2
 headless: bool = True
 # Giải thích dòng 4: Cho biết token có thể là chuỗi hoặc chưa có giá trị.
 token: str | None = None
+
+
+# ------------------------------------
+# Bài tập thực hành
+# Thêm biến timeout kiểu float và in kiểu dữ liệu của từng biến.
+
+timeout: float = 30.0
+print(type(username))
+print(type(retry_count))
+print(type(headless))
+print(type(token))
+print(type(timeout))
