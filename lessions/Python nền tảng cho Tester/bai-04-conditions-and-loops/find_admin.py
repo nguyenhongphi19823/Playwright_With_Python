@@ -20,5 +20,13 @@ for user in users:
         break
 
 
+# ------------------------------------
+# Bài tập thực hành
+# Đổi logic để in tất cả user có role tester.
+for user in users:
+    if user["role"] == "tester":
+        print(user["email"])
+
+
 
 
