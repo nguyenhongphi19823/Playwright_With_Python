@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a0dce8-2278-4451-8996-638a0ab089ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-06-oop-user-manager/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-06-oop-user-manager/user_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-05-functions-for-reuse/user_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessions/Python nền tảng cho Tester/bai-05-functions-for-reuse/user_helpers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
